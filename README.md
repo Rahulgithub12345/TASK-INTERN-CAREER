@@ -18,26 +18,26 @@ Contents
 The Power BI project includes:
 
 1: Imported Dataset from Excel to Power BI desktop.
-2: Data Transformation work included removing unwanted columns, changing datatype, handling missing values.
+2: Data Transformation work included removing unwanted columns, changing datatype, and handling missing values.
 3: Selected appropriate visuals to represent data insights.
-4: Extracted actionable Insights and displayed trend and stats with the help of visuals.
+4: Extracted actionable Insights and displayed trends and stats with the help of visuals.
 
 
 
 
 Key Insights:-
-1: Most attacked Region is Middle East and North Africa.
+1: The most attacked Region is the Middle East and North Africa.
 2: Explosives are the most common weapon type used for attacking.
-3: 38% attacks have been done on Tranportations which most targetted.
-4: Taliban which is most deadly group with most attack.
-5: Most Attacked country is Iraq.
-6: Year 2017 having the highest number of attack.
+3: 38% of attacks have been done on Transportation which is most targeted.
+4: Taliban which is the most deadly group with the most attacks.
+5: The most Attacked country is Iraq.
+6: The year 2017 has the highest number of attacks.
 
 
 
 Instructions
 Download: Clone or download the repository to your local machine.
-Open Power BI Project: Launch Power BI Desktop and open the terrorismm Analysis.pbix file.
+Open Power BI Project: Launch Power BI Desktop and open the terrorism Analysis.pbix file.
 Interact with Visuals: Explore the visualizations by interacting with filters, slicers, and other features to delve deeper into the terrorism analysis.
 
 
